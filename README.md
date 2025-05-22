@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I am Yang, Welcome to my Github!
+<!-- 显示 GitHub 累积 star 数，通过 width 属性调整大小 -->
 
+<img src="https://github-readme-stats.vercel.app/api?username=AZYoung233&count_private=true&show_icons=true&include_all_commits=true&theme=default&hide=issues,contribs" width="700" alt="Total GitHub Stars">
 <!--
 **AZYoung233/AZYoung233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
