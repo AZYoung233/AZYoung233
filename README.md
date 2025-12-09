@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋 I am Yang, Welcome to my Github!</h1>
   <!-- 显示 GitHub 累积 star 数，通过 width 属性调整大小 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AZYoung233&count_private=true&show_icons=true&include_all_commits=true&bg_color=fff&text_color=7F3E55&icon_color=7F3E55&title_color=7F3E55&show_issues=true&show_prs=true&&show_contribs=true" width="500" alt="Total GitHub Stars">
+  <img src="https://github-readme-stats.vercel.app/api?username=AZYoung233&count_private=true&show_icons=true&include_all_commits=true&bg_color=fff&text_color=7F3E55&icon_color=7F3E55&title_color=7F3E55&show_issues=true&show_prs=true&&show_contribs=true" width="501" alt="Total GitHub Stars">
 </div>
 
 
